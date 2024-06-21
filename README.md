@@ -1,0 +1,1 @@
+The McDonald's case study within the "Market Segmentation Analysis" PDF provides a practical example of how market segmentation can be utilized to better understand and cater to customer needs. This section of the report will focus on replicating this case study using Python, demonstrating the segmentation process and its practical application with simulated data.
